@@ -3,8 +3,8 @@
 This repository contains a Jupyter Notebook (`duplicates_analysis.ipynb`) that demonstrates how to **detect duplicate rows** in a dataset using **Pandas**.  
 
 ## Dataset
-The data used is from a **public Kaggle dataset**:  
-👉 [Kaggle Link](https://www.kaggle.com/) *(replace with the exact link you used)*
+The data used is from a public Kaggle dataset:  
+I have included the dataset csv as ncr_ride_bookings.csv
 
 ## Objective
 The notebook focuses on:
